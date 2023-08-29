@@ -13,26 +13,30 @@ export const THEME = extendTheme({
       400: '#9F9BA1',
       300: '#D9D8DA',
       200: '#EDECEE',
-      100: '#F7F7F8'
+      100: '#F7F7F8',
+    },
+    red: {
+      400: '#EE7979',
     },
     white: '#FFFFFF',
-    red: {
-      500: '#EE7979'
-    }
   },
   fonts: {
-    heading: 'Karla_700Bold',
-    body: 'Karla_400Regular',
+    bold: 'Karla_700Bold',
+    regular: 'Karla_400Regular',
+    light: 'Karla_300Light',
   },
   fontSizes: {
+    'xs-': 10,
     xs: 12,
     sm: 14,
     md: 16,
-    lg: 20,
+    lg: 18,
+    'lg+': 20,
     xl: 24,
   },
   sizes: {
-    14: 56,
-    33: 148
-  }
-})
+    0.25: 1,
+    11: 45,
+    22: 88,
+  },
+});
