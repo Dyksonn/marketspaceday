@@ -50,19 +50,15 @@ Clone the project:
 
 ```
 
-git clone https://github.com/RilsonO/marketspace
+git clone https://github.com/Dyksonn/marketspaceday.git
 ```
 
-Clone the API project:
-
-```
-git clone https://github.com/rocketseat-education/ignite-rn-2022-challenge-marketspace-api
 ```
 
 Go to API project path:
 
 ```
-cd ignite-rn-2022-challenge-marketspace-api
+cd backend
 ```
 
 Run the command to install all packages:
@@ -111,10 +107,10 @@ Thanks to the following people who contributed to this project:
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/RilsonO">
-        <img src="https://github.com/RilsonO.png" width="100px;" alt="Picture of Rilson Costa de Oliveira"/><br>
+      <a href="https://github.com/Dyksonn">
+        <img src="https://github.com/Dyksonn.png" width="100px;" alt="Picture of Dykson Santos"/><br>
         <sub>
-          <b>Rilson C Oliveira</b>
+          <b>Dykson Victor</b>
         </sub>
       </a>
     </td>
